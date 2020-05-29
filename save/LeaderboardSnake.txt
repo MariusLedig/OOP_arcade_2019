@@ -1,0 +1,3 @@
+LUCAS : 2
+MARIU : 1
+CLEM  : 0
